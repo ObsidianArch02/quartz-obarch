@@ -1,3 +1,7 @@
+---
+title: ffmpeg 使用指南
+---
+
 # 小 tips
 
 - [将字幕压制到视频中 | Verne in GitHub](https://einverne.github.io/post/2022/10/embedded-subtitle-into-video.html)
