@@ -1,3 +1,7 @@
 {
-  "accentColor": ""
+  "accentColor": "#5a6bed",
+  "interfaceFontFamily": "Sarasa Fixed SC",
+  "baseFontSize": 14,
+  "monospaceFontFamily": "Fira Code,Sarasa Fixed SC",
+  "translucency": false
 }

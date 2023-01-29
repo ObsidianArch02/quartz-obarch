@@ -8,14 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a91f942bbe4e4da4",
+            "id": "167c2dab8964e9c2",
             "type": "leaf",
             "state": {
               "type": "memos_view",
               "state": {}
             }
+          },
+          {
+            "id": "23a8c6ca39f74da6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_index.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +133,25 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "_index.md"
+              }
+            }
+          },
+          {
+            "id": "e4d0252fda8eb8ab",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 423.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -139,6 +164,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "a91f942bbe4e4da4",
-  "lastOpenFiles": []
+  "active": "23a8c6ca39f74da6",
+  "lastOpenFiles": [
+    "_index.md",
+    "notes/男女之间真的有纯友谊关系吗？ - 知乎.md",
+    "notes/尝试使用 Obsidian 快速编辑 blog 文章.md",
+    "notes/环境配置指南.md"
+  ]
 }

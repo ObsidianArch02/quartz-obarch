@@ -1,3 +1,7 @@
 [
-  "obsidian-memos"
+  "obsidian-memos",
+  "obsidian-pangu",
+  "obsidian-git",
+  "cmenu-plugin",
+  "cm-editor-syntax-highlight-obsidian"
 ]
