@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d77d90a09635e773",
+        "id": "0357cf9fe6372b30",
         "type": "tabs",
         "children": [
           {
-            "id": "167c2dab8964e9c2",
+            "id": "cd63366bcb346f6e",
             "type": "leaf",
             "state": {
               "type": "memos_view",
@@ -16,14 +16,13 @@
             }
           },
           {
-            "id": "23a8c6ca39f74da6",
+            "id": "58806d510717b0e1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "_index.md",
-                "mode": "source",
-                "source": true
+                "file": "content/.obsidian/workspace.json",
+                "staged": true
               }
             }
           }
@@ -94,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,7 +159,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "23a8c6ca39f74da6",
+  "active": "58806d510717b0e1",
   "lastOpenFiles": [
     "_index.md",
     "notes/男女之间真的有纯友谊关系吗？ - 知乎.md",
