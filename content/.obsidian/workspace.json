@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2569c3486cc81480",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_index.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "8f055900c568664c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/toc-pages/memos-toc.md",
+                "file": "_index.md",
                 "mode": "source",
                 "source": true
               }
@@ -158,12 +146,12 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "2569c3486cc81480",
+  "active": "e4d0252fda8eb8ab",
   "lastOpenFiles": [
     "notes/toc-pages/memos-toc.md",
+    "notes/toc-pages/tech-toc.md",
     "_index.md",
     "private/memos/2023-01-13.md",
-    "notes/toc-pages/tech-toc.md",
     "notes/尝试使用 Obsidian 快速编辑 blog 文章.md",
     "notes/环境配置指南.md",
     "notes/toc-pages",
