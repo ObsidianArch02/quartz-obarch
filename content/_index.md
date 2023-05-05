@@ -1,8 +1,14 @@
 ---
-title: 主页
+title: 主页 - 矩阵 - 数字生命
 enableToc: false
 ---
 
-[[notes/ffmpeg 使用指南|如何使用ffmpeg]]
-[[notes/环境配置指南]]
-[[notes/尝试使用 Obsidian 快速编辑 blog 文章]]
+欢迎来到 ObsidianArch 的 Matrix
+
+如果想要查看技术文档，点击：[[notes/toc-pages/tech-toc|链接]]
+
+如果想看看情绪化的吐槽，点击：[[notes/toc-pages/memos-toc|链接]]
+
+---
+
+本 Matrix 使用 Github Pages 进行部署，转载请注明出处。

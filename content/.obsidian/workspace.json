@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "0357cf9fe6372b30",
+        "id": "b35c99faacdccec2",
         "type": "tabs",
         "children": [
           {
-            "id": "40e1ab4db3b96810",
+            "id": "2569c3486cc81480",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "_index.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8f055900c568664c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/toc-pages/memos-toc.md",
                 "mode": "source",
                 "source": true
               }
@@ -138,23 +150,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-memos:Memos": false
+      "obsidian-memos:Memos": false,
+      "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "40e1ab4db3b96810",
+  "active": "2569c3486cc81480",
   "lastOpenFiles": [
-    "未命名.md",
+    "notes/toc-pages/memos-toc.md",
     "_index.md",
+    "private/memos/2023-01-13.md",
+    "notes/toc-pages/tech-toc.md",
+    "notes/尝试使用 Obsidian 快速编辑 blog 文章.md",
+    "notes/环境配置指南.md",
+    "notes/toc-pages",
+    "未命名.canvas",
     "notes/ffmpeg 使用指南.md",
     "templates/post.md",
-    "notes/尝试使用 Obsidian 快速编辑 blog 文章.md",
-    "notes/男女之间真的有纯友谊关系吗？ - 知乎.md",
-    "notes/环境配置指南.md"
+    "notes/男女之间真的有纯友谊关系吗？ - 知乎.md"
   ]
 }
