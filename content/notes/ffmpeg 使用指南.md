@@ -76,6 +76,18 @@ FFmpeg 的录制命令 gdigrab 不支持音频录制，也不支持直接调用�
 - [视频码率设定参考值 - 简书](https://www.jianshu.com/p/be38f54dafcb)
 - [[FFmpeg] ffmpeg 常用命令 - 晏过留痕 - 博客园](https://www.cnblogs.com/frost-yen/p/5848781.html)
 
+> 最终结论  
+> CPU的优势是高压缩比，可以获得更小的文件体积。  
+> VCE的优势是超高的编码速度和非常低的占用，不影响电脑的其他功能。  
+> 忘记intel qsv吧，完全不值得使用。  
+>   
+> 一般情况下优先AMD VCE硬件编码器，qc26/27-speed模式。没有A卡的用户使用cpu编码qc25-fast模式。  
+> 要求高质量收藏的情况下使用cpu编码qc19/20-fast参数，不喜欢挂机的急性子可以使用VCE qc21  
+>   
+> https://g.nga.cn/read.php?&tid=20089658
+
+
+
 # 解决国标 AVS2 及 AVS3 编码问题
 
 众所周知，CCTV 采用了一种特殊的编解码标准以提供 8K 的媒体转播服务，即国标 AVS2 及 AVS3，电视转播的北京冬奥会的开幕式就有用到。
