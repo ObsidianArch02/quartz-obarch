@@ -14,21 +14,8 @@
               "type": "memos_view",
               "state": {}
             }
-          },
-          {
-            "id": "f3301827726fa774",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/ffmpeg 使用指南.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/ffmpeg 使用指南.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/ffmpeg 使用指南.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "notes/ffmpeg 使用指南.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,11 +138,11 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "f3301827726fa774",
+  "active": "15a964454b151419",
   "lastOpenFiles": [
+    "notes/ffmpeg 使用指南.md",
     "基于 ffmpeg 的影像资料压缩归档.md",
     "_index.md",
-    "notes/ffmpeg 使用指南.md",
     "notes/将工作环境切换到 Windows 的尝试.md",
     "notes/toc-pages/tech-toc.md",
     "notes/环境配置指南.md",
